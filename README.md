@@ -1,1 +1,3 @@
-# TeleDartBot
+# A Sample of Telegram Bot from many Languages.
+
+# Just Booring...
